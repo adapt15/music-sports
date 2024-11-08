@@ -1,269 +1,314 @@
 [
   {
+    "id": 1,
     "title": "Island Breeze",
     "artist": "Jake Shimabukuro",
     "chords": ["C", "G", "Am", "F"],
     "strumming": "Down, Down-Up, Up-Down-Up"
   },
   {
+    "id": 2,
     "title": "Ocean Waves",
     "artist": "Israel Kamakawiwo'ole",
     "chords": ["G", "D", "Em", "C"],
     "strumming": "Down, Up, Down, Up"
   },
   {
+    "id": 3,
     "title": "Tropical Vibes",
     "artist": "Taimane Gardner",
     "chords": ["Am", "F", "C", "G"],
     "strumming": "Down-Down, Up-Up, Down-Up"
   },
   {
+    "id": 4,
     "title": "Aloha Spirit",
     "artist": "Eddie Kamae",
     "chords": ["C", "F", "G", "Am"],
     "strumming": "Down, Down, Down-Up"
   },
   {
+    "id": 5,
     "title": "Sunset Melody",
     "artist": "Herb Ohta",
     "chords": ["F", "Am", "C", "G7"],
     "strumming": "Down-Up, Down, Down-Up"
   },
   {
+    "id": 6,
     "title": "Seaside Serenade",
     "artist": "Daniel Ho",
     "chords": ["G", "C", "D", "Em"],
     "strumming": "Down, Down-Up, Down, Down-Up"
   },
   {
+    "id": 7,
     "title": "Ukulele Dream",
     "artist": "Aldrine Guerrero",
     "chords": ["Dm", "G", "C", "Am"],
     "strumming": "Down-Up-Up, Down-Up"
   },
   {
+    "id": 8,
     "title": "Summer Nights",
     "artist": "Brittni Paiva",
     "chords": ["Am", "G", "F", "C"],
     "strumming": "Down-Down, Up-Down-Up"
   },
   {
+    "id": 9,
     "title": "Island Harmony",
     "artist": "James Hill",
     "chords": ["C", "G7", "F", "D7"],
     "strumming": "Down, Up-Down-Up"
   },
   {
+    "id": 10,
     "title": "Shoreline Ballad",
     "artist": "Ohta-San",
     "chords": ["Em", "G", "D", "A"],
     "strumming": "Down-Up, Down-Up"
   },
   {
+    "id": 11,
     "title": "Hawaiian Sunrise",
     "artist": "Kaleo",
     "chords": ["A", "E", "F#m", "D"],
     "strumming": "Down-Down-Up, Up-Down-Up"
   },
   {
+    "id": 12,
     "title": "Beach Walk",
     "artist": "Mike Love",
     "chords": ["Bm", "E", "A", "D"],
     "strumming": "Down, Down, Up-Down-Up"
   },
   {
+    "id": 13,
     "title": "Coconut Grove",
     "artist": "John Cruz",
     "chords": ["Am", "F", "C", "G"],
     "strumming": "Down, Down-Up-Up, Down-Up"
   },
   {
+    "id": 14,
     "title": "Palm Trees",
     "artist": "Jack Johnson",
     "chords": ["G", "Em", "C", "D"],
     "strumming": "Down-Down-Up, Down-Up-Down"
   },
   {
+    "id": 15,
     "title": "Island Jam",
     "artist": "Anuhea",
     "chords": ["C", "Am", "F", "G7"],
     "strumming": "Down, Down-Up, Down, Up"
   },
   {
+    "id": 16,
     "title": "Aloha Friday",
     "artist": "Henry Kapono",
     "chords": ["F", "C", "G", "Am"],
     "strumming": "Down-Up, Down, Down-Up-Down"
   },
   {
+    "id": 17,
     "title": "Sea Breeze",
     "artist": "Kawika Kahiapo",
     "chords": ["D", "G", "Bm", "A"],
     "strumming": "Down-Down, Up-Up, Down"
   },
   {
+    "id": 18,
     "title": "Hawaiian Hula",
     "artist": "Ledward Kaapana",
     "chords": ["Am", "D7", "G", "C"],
     "strumming": "Down-Up-Down, Down-Up"
   },
   {
+    "id": 19,
     "title": "Island Paradise",
     "artist": "HAPA",
     "chords": ["E", "A", "C#m", "B"],
     "strumming": "Down, Down, Up, Down-Up"
   },
   {
+    "id": 20,
     "title": "Ukulele Groove",
     "artist": "Makana",
     "chords": ["G", "Bm", "Em", "D"],
     "strumming": "Down-Up, Down-Up, Down"
   },
   {
+    "id": 21,
     "title": "Sandy Shores",
     "artist": "Nathan Aweau",
     "chords": ["C", "G", "Am", "F"],
     "strumming": "Down, Down, Down-Up-Up"
   },
   {
+    "id": 22,
     "title": "Morning Dew",
     "artist": "Jake Shimabukuro",
     "chords": ["F", "C", "G", "Am"],
     "strumming": "Down-Up, Down-Up, Down"
   },
   {
+    "id": 23,
     "title": "Lazy Lagoon",
     "artist": "Israel Kamakawiwo'ole",
     "chords": ["A", "E", "F#m", "D"],
     "strumming": "Down, Down, Up-Down"
   },
   {
+    "id": 24,
     "title": "Surf Song",
     "artist": "James Hill",
     "chords": ["Em", "Am", "D", "G"],
     "strumming": "Down-Up, Up-Down-Up"
   },
   {
+    "id": 25,
     "title": "Island Song",
     "artist": "John Keawe",
     "chords": ["Am", "G", "F", "C"],
     "strumming": "Down-Down-Up, Down"
   },
   {
+    "id": 26,
     "title": "Ocean Blue",
     "artist": "Ka’au Crater Boys",
     "chords": ["G", "D", "Em", "C"],
     "strumming": "Down, Up, Down-Up-Down"
   },
   {
+    "id": 27,
     "title": "Hawaiian Tradewinds",
     "artist": "Kalama Brothers",
     "chords": ["C", "F", "Am", "G"],
     "strumming": "Down, Down, Up, Down"
   },
   {
+    "id": 28,
     "title": "Coconut Island",
     "artist": "Troy Fernandez",
     "chords": ["A", "Bm", "G", "D"],
     "strumming": "Down, Down-Up, Down-Up"
   },
   {
+    "id": 29,
     "title": "Rainbow Valley",
     "artist": "Darlene Ahuna",
     "chords": ["Am", "C", "G", "F"],
     "strumming": "Down-Down-Up, Down-Up"
   },
   {
+    "id": 30,
     "title": "Ocean Spray",
     "artist": "Kealii Reichel",
     "chords": ["E", "B", "C#m", "A"],
     "strumming": "Down, Down-Up, Down, Down"
   },
   {
+    "id": 31,
     "title": "Ukulele Love",
     "artist": "Bruddah Waltah",
     "chords": ["C", "Am", "F", "G7"],
     "strumming": "Down, Down, Up-Down"
   },
   {
+    "id": 32,
     "title": "Dream Island",
     "artist": "Peter Moon",
     "chords": ["G", "C", "D", "Em"],
     "strumming": "Down-Up, Down, Down-Up"
   },
   {
+    "id": 33,
     "title": "Summer Island",
     "artist": "Amy Hanaiali’i",
     "chords": ["C", "F", "G", "Am"],
     "strumming": "Down, Down-Up, Down-Up"
   },
   {
+    "id": 34,
     "title": "Tide Pools",
     "artist": "John Cruz",
     "chords": ["D", "G", "A", "Bm"],
     "strumming": "Down-Down, Up-Down-Up"
   },
   {
+    "id": 35,
     "title": "Aloha Spirit",
     "artist": "Taimane Gardner",
     "chords": ["Am", "G", "C", "F"],
     "strumming": "Down, Up-Down-Up"
   },
   {
+    "id": 36,
     "title": "Paradise Cove",
     "artist": "Lena Machado",
     "chords": ["E", "C#m", "A", "B"],
     "strumming": "Down-Down-Up, Down-Up"
   },
   {
+    "id": 37,
     "title": "Warm Sands",
     "artist": "Ledward Kaapana",
     "chords": ["G", "Bm", "Em", "D"],
     "strumming": "Down-Up, Down, Down"
   },
   {
+    "id": 38,
     "title": "Palm Trees",
     "artist": "Brittni Paiva",
     "chords": ["F", "C", "G", "Am"],
     "strumming": "Down, Down-Up, Down-Up"
   },
   {
+    "id": 39,
     "title": "Blue Lagoon",
     "artist": "Aldrine Guerrero",
     "chords": ["C", "G", "Am", "F"],
     "strumming": "Down, Down-Up, Down"
   },
   {
+    "id": 40,
     "title": "Ukulele Waltz",
     "artist": "Eddie Kamae",
     "chords": ["Am", "G", "F", "C"],
     "strumming": "Down, Up-Down, Down-Up"
   },
   {
+    "id": 41,
     "title": "Island Strum",
     "artist": "Daniel Ho",
     "chords": ["A", "D", "E", "G"],
     "strumming": "Down-Down-Up, Down-Up-Down"
   },
   {
+    "id": 42,
     "title": "Tropical Night",
     "artist": "Mike Kaawa",
     "chords": ["Em", "C", "G", "D"],
     "strumming": "Down-Up, Down, Down-Up"
   },
   {
+    "id": 43,
     "title": "Seaside Melody",
     "artist": "Dennis Kamakahi",
     "chords": ["F", "G", "Am", "C"],
     "strumming": "Down-Down, Up-Down-Up"
   },
   {
+    "id": 44,
     "title": "Island Groove",
     "artist": "Jeff Peterson",
     "chords": ["G", "C", "D", "Am"],
     "strumming": "Down-Up, Down, Down-Up"
   },
   {
+    "id": 45,
     "title": "Ukulele Breeze",
     "artist": "Kawika Kahiapo",
     "chords": ["D", "F#", "G", "A"],
