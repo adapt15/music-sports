@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Moonlight Sonata",
+    "artist": "Ludwig van Beethoven",
+    "notes": ["C", "G", "E", "B", "A"],
+    "rhythmPattern": "3-2-1-3"
+  },
+  {
+    "title": "Clair de Lune",
+    "artist": "Claude Debussy",
+    "notes": ["D", "F#", "A", "C#", "E"],
+    "rhythmPattern": "1-1-2-1-3"
+  },
+  {
+    "title": "Fur Elise",
+    "artist": "Ludwig van Beethoven",
+    "notes": ["E", "D#", "E", "D#", "E"],
+    "rhythmPattern": "2-2-1-2"
+  },
+  {
+    "title": "Nocturne Op.9 No.2",
+    "artist": "Frederic Chopin",
+    "notes": ["B", "G#", "F#", "D#", "C#"],
+    "rhythmPattern": "1-3-2-1"
+  },
+  {
+    "title": "Prelude in C Major",
+    "artist": "Johann Sebastian Bach",
+    "notes": ["C", "E", "G", "B", "D"],
+    "rhythmPattern": "1-2-3-1"
+  },
+  {
+    "title": "Gymnopedie No.1",
+    "artist": "Erik Satie",
+    "notes": ["G", "B", "D", "F#", "A"],
+    "rhythmPattern": "1-1-1-2"
+  },
+  {
+    "title": "The Entertainer",
+    "artist": "Scott Joplin",
+    "notes": ["D", "G", "B", "E", "C"],
+    "rhythmPattern": "2-2-1-1"
+  },
+  {
+    "title": "Canon in D",
+    "artist": "Johann Pachelbel",
+    "notes": ["D", "A", "B", "F#", "G"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "River Flows in You",
+    "artist": "Yiruma",
+    "notes": ["A", "C#", "E", "G#", "B"],
+    "rhythmPattern": "2-1-2"
+  },
+  {
+    "title": "Swan Lake",
+    "artist": "Pyotr Tchaikovsky",
+    "notes": ["E", "F#", "A", "B", "D"],
+    "rhythmPattern": "3-2-1"
+  },
+  {
+    "title": "Eine Kleine Nachtmusik",
+    "artist": "Wolfgang Amadeus Mozart",
+    "notes": ["G", "D", "B", "E", "C"],
+    "rhythmPattern": "1-1-2-3"
+  },
+  {
+    "title": "Waltz in A Minor",
+    "artist": "Frederic Chopin",
+    "notes": ["A", "E", "G", "B", "D"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "Etude Op.10 No.3",
+    "artist": "Frederic Chopin",
+    "notes": ["C#", "G#", "F#", "D#", "B"],
+    "rhythmPattern": "1-2-2"
+  },
+  {
+    "title": "Hungarian Rhapsody",
+    "artist": "Franz Liszt",
+    "notes": ["A", "B", "D", "E", "G"],
+    "rhythmPattern": "3-1-2"
+  },
+  {
+    "title": "Rondo Alla Turca",
+    "artist": "Wolfgang Amadeus Mozart",
+    "notes": ["C", "G", "E", "B", "D"],
+    "rhythmPattern": "1-1-3-1"
+  },
+  {
+    "title": "La Campanella",
+    "artist": "Franz Liszt",
+    "notes": ["E", "G#", "A", "B", "C#"],
+    "rhythmPattern": "2-3-1"
+  },
+  {
+    "title": "Nocturne in Eb Major",
+    "artist": "Frederic Chopin",
+    "notes": ["Eb", "G", "Bb", "C", "D"],
+    "rhythmPattern": "1-1-2"
+  },
+  {
+    "title": "Prelude in E Minor",
+    "artist": "Frederic Chopin",
+    "notes": ["E", "F#", "G#", "B", "D#"],
+    "rhythmPattern": "1-3-2-1"
+  },
+  {
+    "title": "Piano Sonata No.14",
+    "artist": "Ludwig van Beethoven",
+    "notes": ["C#", "E", "G#", "A", "B"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "The Blue Danube",
+    "artist": "Johann Strauss II",
+    "notes": ["G", "C", "E", "A", "F"],
+    "rhythmPattern": "2-1-3"
+  },
+  {
+    "title": "Clair de Lune",
+    "artist": "Claude Debussy",
+    "notes": ["D", "E", "F#", "A", "G"],
+    "rhythmPattern": "1-1-1-2"
+  },
+  {
+    "title": "Minuet in G",
+    "artist": "Johann Sebastian Bach",
+    "notes": ["G", "A", "B", "D", "E"],
+    "rhythmPattern": "2-1-2"
+  },
+  {
+    "title": "Pavane",
+    "artist": "Gabriel Faure",
+    "notes": ["C#", "D#", "E", "G#", "A"],
+    "rhythmPattern": "1-2-3"
+  },
+  {
+    "title": "Arabesque No.1",
+    "artist": "Claude Debussy",
+    "notes": ["A", "C#", "E", "F#", "B"],
+    "rhythmPattern": "3-2-1"
+  },
+  {
+    "title": "Fantaisie-Impromptu",
+    "artist": "Frederic Chopin",
+    "notes": ["F#", "G#", "A#", "B", "C#"],
+    "rhythmPattern": "1-2-2"
+  },
+  {
+    "title": "Jesu, Joy of Man's Desiring",
+    "artist": "Johann Sebastian Bach",
+    "notes": ["G", "A", "B", "C", "D"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "Bolero",
+    "artist": "Maurice Ravel",
+    "notes": ["C", "D", "E", "G", "A"],
+    "rhythmPattern": "1-1-1-2"
+  },
+  {
+    "title": "Ave Maria",
+    "artist": "Franz Schubert",
+    "notes": ["B", "D", "E", "G", "A"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "Adagio in G Minor",
+    "artist": "Tomaso Albinoni",
+    "notes": ["G", "A", "Bb", "C", "D"],
+    "rhythmPattern": "2-1-1"
+  },
+  {
+    "title": "Dance of the Sugar Plum Fairy",
+    "artist": "Pyotr Tchaikovsky",
+    "notes": ["E", "G#", "B", "C#", "D#"],
+    "rhythmPattern": "1-1-2"
+  }
+]
