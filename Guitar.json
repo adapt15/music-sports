@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Gentle Strum",
+    "artist": "John Mayer",
+    "notes": ["E", "G", "B", "C#", "A"]
+  },
+  {
+    "title": "Sunrise Riff",
+    "artist": "Eric Clapton",
+    "notes": ["A", "D", "E", "G", "B"]
+  },
+  {
+    "title": "Echoes of Silence",
+    "artist": "Jimmy Page",
+    "notes": ["D", "F#", "A", "C", "E"]
+  },
+  {
+    "title": "Golden Harmony",
+    "artist": "Carlos Santana",
+    "notes": ["C", "E", "G", "B", "D"]
+  },
+  {
+    "title": "Dawn's Melody",
+    "artist": "Mark Knopfler",
+    "notes": ["G", "A", "C", "D", "F#"]
+  },
+  {
+    "title": "Evening Whisper",
+    "artist": "Eddie Van Halen",
+    "notes": ["A", "B", "D", "F#", "G"]
+  },
+  {
+    "title": "Silver Strings",
+    "artist": "George Harrison",
+    "notes": ["E", "G#", "A", "B", "D"]
+  },
+  {
+    "title": "Nightfall Groove",
+    "artist": "Jimi Hendrix",
+    "notes": ["F", "G", "Bb", "C", "D"]
+  },
+  {
+    "title": "Ocean's Wave",
+    "artist": "Jeff Beck",
+    "notes": ["D", "F", "A", "B", "C#"]
+  },
+  {
+    "title": "Whispering Pines",
+    "artist": "B.B. King",
+    "notes": ["G", "A", "B", "D", "F#"]
+  },
+  {
+    "title": "Firelight",
+    "artist": "Chuck Berry",
+    "notes": ["E", "A", "C#", "G#", "B"]
+  },
+  {
+    "title": "Frozen Echo",
+    "artist": "Slash",
+    "notes": ["D", "E", "G", "A", "B"]
+  },
+  {
+    "title": "High Noon",
+    "artist": "David Gilmour",
+    "notes": ["C", "D", "F", "G", "A"]
+  },
+  {
+    "title": "Lonely Roads",
+    "artist": "Keith Richards",
+    "notes": ["A", "C#", "E", "F#", "B"]
+  },
+  {
+    "title": "Silent Rain",
+    "artist": "Angus Young",
+    "notes": ["G", "B", "C", "E", "A"]
+  },
+  {
+    "title": "Desert Mirage",
+    "artist": "Tom Morello",
+    "notes": ["E", "F#", "A", "B", "D"]
+  },
+  {
+    "title": "Mountain Song",
+    "artist": "Ritchie Blackmore",
+    "notes": ["D", "G", "A", "C", "E"]
+  },
+  {
+    "title": "Misty Lake",
+    "artist": "Steve Vai",
+    "notes": ["A", "B", "C#", "E", "G#"]
+  },
+  {
+    "title": "Rolling Thunder",
+    "artist": "Brian May",
+    "notes": ["E", "G", "B", "C", "D"]
+  },
+  {
+    "title": "Shadows",
+    "artist": "James Hetfield",
+    "notes": ["A", "C", "D", "F", "G"]
+  },
+  {
+    "title": "Bright Sun",
+    "artist": "Kirk Hammett",
+    "notes": ["D", "E", "G#", "B", "A"]
+  },
+  {
+    "title": "Starry Night",
+    "artist": "Zakk Wylde",
+    "notes": ["C", "F", "G", "A", "D"]
+  },
+  {
+    "title": "Twilight Fields",
+    "artist": "Joe Satriani",
+    "notes": ["B", "D", "E", "A", "F#"]
+  },
+  {
+    "title": "Wind Chimes",
+    "artist": "Pat Metheny",
+    "notes": ["G", "C", "D", "E", "A"]
+  },
+  {
+    "title": "Mellow Skies",
+    "artist": "Joe Bonamassa",
+    "notes": ["A", "B", "D", "E", "G#"]
+  },
+  {
+    "title": "Moonlight Dance",
+    "artist": "Allan Holdsworth",
+    "notes": ["E", "G", "A", "C", "D"]
+  },
+  {
+    "title": "City Lights",
+    "artist": "Yngwie Malmsteen",
+    "notes": ["A", "D", "F#", "G#", "B"]
+  },
+  {
+    "title": "Green Fields",
+    "artist": "John Petrucci",
+    "notes": ["C", "E", "G", "A", "B"]
+  },
+  {
+    "title": "Blue Horizon",
+    "artist": "Paul Gilbert",
+    "notes": ["F#", "A", "B", "C#", "E"]
+  },
+  {
+    "title": "Dusty Road",
+    "artist": "Nuno Bettencourt",
+    "notes": ["A", "B", "D", "E", "G"]
+  },
+  {
+    "title": "Winter's Chill",
+    "artist": "Mick Mars",
+    "notes": ["D", "E", "G", "A", "C"]
+  },
+  {
+    "title": "Blazing Sun",
+    "artist": "John Frusciante",
+    "notes": ["C#", "E", "G#", "A", "B"]
+  },
+  {
+    "title": "Open Sky",
+    "artist": "Steve Lukather",
+    "notes": ["A", "C", "E", "G", "B"]
+  },
+  {
+    "title": "Southern Winds",
+    "artist": "Brad Paisley",
+    "notes": ["E", "A", "D", "F#", "B"]
+  },
+  {
+    "title": "Valley Echo",
+    "artist": "Jimmy Page",
+    "notes": ["G", "A", "B", "D", "E"]
+  },
+  {
+    "title": "Rocky Roads",
+    "artist": "Neil Young",
+    "notes": ["B", "D", "E", "A", "G"]
+  },
+  {
+    "title": "Quiet Night",
+    "artist": "Albert King",
+    "notes": ["C", "F", "G", "A", "D"]
+  },
+  {
+    "title": "Wind on Water",
+    "artist": "Derek Trucks",
+    "notes": ["A", "C#", "D", "G", "B"]
+  },
+  {
+    "title": "Spring's Breath",
+    "artist": "Jerry Cantrell",
+    "notes": ["E", "G", "A", "D", "C"]
+  },
+  {
+    "title": "Silent Creek",
+    "artist": "Johnny Winter",
+    "notes": ["A", "C", "D", "E", "F#"]
+  },
+  {
+    "title": "Cold Fire",
+    "artist": "Mike McCready",
+    "notes": ["D", "F", "G", "A", "B"]
+  },
+  {
+    "title": "Fading Lights",
+    "artist": "Eric Johnson",
+    "notes": ["A", "E", "G#", "B", "D"]
+  },
+  {
+    "title": "Mountain Mist",
+    "artist": "Ronnie Wood",
+    "notes": ["C", "D", "F", "A", "E"]
+  },
+  {
+    "title": "Firebird",
+    "artist": "Peter Green",
+    "notes": ["D", "A", "B", "E", "G#"]
+  },
+  {
+    "title": "Echoing Soul",
+    "artist": "Les Paul",
+    "notes": ["A", "D", "E", "G", "B"]
+  },
+  {
+    "title": "Golden Horizon",
+    "artist": "Albert Collins",
+    "notes": ["G", "A", "B", "D", "F#"]
+  },
+  {
+    "title": "High Desert",
+    "artist": "Robert Cray",
+    "notes": ["A", "C#", "E", "G", "D"]
+  },
+  {
+    "title": "Still Waters",
+    "artist": "Warren Haynes",
+    "notes": ["G", "A", "D", "E", "F#"]
+  },
+  {
+    "title": "Golden Rays",
+    "artist": "Bonnie Raitt",
+    "notes": ["E", "G#", "A", "B", "C#"]
+  }
+]
