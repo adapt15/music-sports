@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Soothing Melody",
+    "artist": "John Doe",
+    "notes": ["C", "D", "E", "G", "A"],
+    "rhythmPattern": "1-2-3-1"
+  },
+  {
+    "title": "Morning Breeze",
+    "artist": "Jane Smith",
+    "notes": ["A", "B", "C#", "E", "G#"],
+    "rhythmPattern": "3-2-1-3"
+  },
+  {
+    "title": "Nature’s Symphony",
+    "artist": "Alice Johnson",
+    "notes": ["F", "G", "A", "C", "D"],
+    "rhythmPattern": "1-1-2-1-3"
+  },
+  {
+    "title": "Sunset Serenade",
+    "artist": "Mike Brown",
+    "notes": ["G", "A", "B", "D", "F#"],
+    "rhythmPattern": "2-2-1-2"
+  },
+  {
+    "title": "Echoes of the Forest",
+    "artist": "Sarah Lee",
+    "notes": ["E", "G", "B", "C", "D"],
+    "rhythmPattern": "1-3-2-1"
+  },
+  {
+    "title": "Whispering Winds",
+    "artist": "Tom Hanks",
+    "notes": ["A", "C", "E", "G", "B"],
+    "rhythmPattern": "1-2-1-2"
+  },
+  {
+    "title": "Mountain Calls",
+    "artist": "Eva Green",
+    "notes": ["D", "F#", "A", "B", "E"],
+    "rhythmPattern": "3-1-2"
+  },
+  {
+    "title": "River Flow",
+    "artist": "Bruce White",
+    "notes": ["G", "B", "D", "F", "A"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "Ocean Waves",
+    "artist": "Natalie Portman",
+    "notes": ["C", "E", "G", "A", "D"],
+    "rhythmPattern": "1-3-2-3"
+  },
+  {
+    "title": "Spring Awakening",
+    "artist": "Samuel Black",
+    "notes": ["A", "D", "E", "G", "B"],
+    "rhythmPattern": "1-2-3-2"
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "Fiona Gray",
+    "notes": ["D", "G", "B", "C#", "E"],
+    "rhythmPattern": "2-3-1"
+  },
+  {
+    "title": "Distant Thunder",
+    "artist": "Olivia Thompson",
+    "notes": ["E", "A", "C#", "D", "G"],
+    "rhythmPattern": "1-1-2-1"
+  },
+  {
+    "title": "Firefly Glow",
+    "artist": "George Blue",
+    "notes": ["G", "A", "C", "D", "E"],
+    "rhythmPattern": "3-2-1"
+  },
+  {
+    "title": "Misty Valley",
+    "artist": "Hannah Martin",
+    "notes": ["A", "C", "D", "E", "F"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "Snowfall",
+    "artist": "Emily Clark",
+    "notes": ["C", "D", "E", "G", "A"],
+    "rhythmPattern": "1-1-2-3"
+  },
+  {
+    "title": "Starlit Sky",
+    "artist": "Jack Williams",
+    "notes": ["B", "D", "F#", "A", "C"],
+    "rhythmPattern": "2-3-1"
+  },
+  {
+    "title": "Desert Mirage",
+    "artist": "Laura Brown",
+    "notes": ["D", "F", "A", "B", "C#"],
+    "rhythmPattern": "1-2-2-1"
+  },
+  {
+    "title": "Midnight Walk",
+    "artist": "James Lee",
+    "notes": ["E", "G#", "A", "C#", "D"],
+    "rhythmPattern": "1-2-3-2"
+  },
+  {
+    "title": "Golden Fields",
+    "artist": "Amy Wilson",
+    "notes": ["A", "C", "D", "G", "E"],
+    "rhythmPattern": "2-1-3"
+  },
+  {
+    "title": "Harvest Moon",
+    "artist": "Chris Johnson",
+    "notes": ["G", "A", "C", "E", "F#"],
+    "rhythmPattern": "1-2-1"
+  },
+  {
+    "title": "Crimson Sunset",
+    "artist": "Paul White",
+    "notes": ["C", "E", "G", "B", "D"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "Misty Morning",
+    "artist": "Julia Red",
+    "notes": ["B", "D", "E", "G", "A"],
+    "rhythmPattern": "2-1-3"
+  },
+  {
+    "title": "Crystal Lake",
+    "artist": "Evan Green",
+    "notes": ["A", "B", "D", "E", "G#"],
+    "rhythmPattern": "3-1-2"
+  },
+  {
+    "title": "Forest Echoes",
+    "artist": "Charlie King",
+    "notes": ["D", "F#", "A", "B", "C"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "Twilight Glimmer",
+    "artist": "Zara Woods",
+    "notes": ["G", "A", "C#", "D", "F#"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "Emerald Dream",
+    "artist": "Sophia Rivers",
+    "notes": ["A", "C", "E", "G", "B"],
+    "rhythmPattern": "2-1-1"
+  },
+  {
+    "title": "Mystic Shadows",
+    "artist": "Peter Parker",
+    "notes": ["D", "F", "G", "A", "C"],
+    "rhythmPattern": "1-2-2"
+  },
+  {
+    "title": "River Reflections",
+    "artist": "Emily Blue",
+    "notes": ["B", "D", "E", "G", "A"],
+    "rhythmPattern": "2-1-3"
+  },
+  {
+    "title": "Silent Night",
+    "artist": "Anna Miller",
+    "notes": ["A", "C#", "E", "G", "B"],
+    "rhythmPattern": "3-1-2"
+  },
+  {
+    "title": "Winds of Time",
+    "artist": "Jacob Stone",
+    "notes": ["C", "D", "G", "B", "E"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "Flames of Passion",
+    "artist": "Lisa Turner",
+    "notes": ["E", "F#", "G", "A", "C#"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "Whispers in the Dark",
+    "artist": "Eric Black",
+    "notes": ["A", "C#", "D", "F#", "G"],
+    "rhythmPattern": "2-1-3"
+  },
+  {
+    "title": "Velvet Rain",
+    "artist": "David Green",
+    "notes": ["D", "E", "G", "B", "C#"],
+    "rhythmPattern": "1-2-2"
+  },
+  {
+    "title": "Nightfall Glow",
+    "artist": "Oliver Brooks",
+    "notes": ["G", "A", "C", "D", "E"],
+    "rhythmPattern": "2-3-1"
+  },
+  {
+    "title": "Winter’s Tale",
+    "artist": "Sara White",
+    "notes": ["B", "D", "F#", "G", "A"],
+    "rhythmPattern": "1-1-2"
+  },
+  {
+    "title": "Gentle Breeze",
+    "artist": "Henry Brown",
+    "notes": ["C", "D", "E", "G", "A"],
+    "rhythmPattern": "3-2-1"
+  },
+  {
+    "title": "Spring’s Hope",
+    "artist": "Daniel Ford",
+    "notes": ["A", "C", "D", "F", "G"],
+    "rhythmPattern": "1-2-2"
+  },
+  {
+    "title": "Echoing Hills",
+    "artist": "Victoria Gray",
+    "notes": ["D", "F#", "G", "A", "B"],
+    "rhythmPattern": "2-3-1"
+  },
+  {
+    "title": "Crystal Frost",
+    "artist": "Sophie Rose",
+    "notes": ["C", "D", "E", "G", "B"],
+    "rhythmPattern": "1-1-2"
+  },
+  {
+    "title": "Glacial Winds",
+    "artist": "Holly Lake",
+    "notes": ["G", "A", "C", "D", "E"],
+    "rhythmPattern": "2-3-1"
+  },
+  {
+    "title": "Amber Light",
+    "artist": "Fred Black",
+    "notes": ["A", "C#", "D", "E", "G#"],
+    "rhythmPattern": "1-3-2"
+  },
+  {
+    "title": "Sunlit Horizon",
+    "artist": "Julia Long",
+    "notes": ["B", "D", "F#", "A", "C"],
+    "rhythmPattern": "2-1-2"
+  },
+  {
+    "title": "Hidden Grove",
+    "artist": "Matt Green",
+    "notes": ["D", "E", "F#", "A", "B"],
+    "rhythmPattern": "1-3-1"
+  },
+  {
+    "title": "Cloud Veil",
+    "artist": "Sophia Rain",
+    "notes": ["C", "G", "A", "D", "E"],
+    "rhythmPattern": "1-2-3"
+  },
+  {
+    "title": "Celestial Dreams",
+    "artist": "Grace Rivers",
+    "notes": ["A", "B", "C", "D", "F"],
+    "rhythmPattern": "1-1-2"
+  },
+  {
+    "title": "Silver Shores",
+    "artist": "Michael Blue",
+    "notes": ["E", "G", "B", "C#", "D"],
+    "rhythmPattern": "2-2-1"
+  },
+  {
+    "title": "Harmony of Night",
+    "artist": "Ella Gray",
+    "notes": ["G", "A", "B", "D", "F#"],
+    "rhythmPattern": "3-1-2"
+  },
+  {
+    "title": "Lost Trails",
+    "artist": "Nina Woods",
+    "notes": ["D", "F", "G", "A", "B"],
+    "rhythmPattern": "1-2-1"
+  },
+  {
+    "title": "Quiet Reflections",
+    "artist": "Alex Black",
+    "notes": ["C", "E", "G", "B", "D"],
+    "rhythmPattern": "2-3-1"
+  }
+]
